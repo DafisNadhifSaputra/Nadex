@@ -1,0 +1,112 @@
+{
+  "books": [
+    {
+      "id": "cosmos",
+      "title": "Cosmos",
+      "author": "",
+      "bookPath": "cosmos/book.json",
+      "pageCount": 185,
+      "chapterCount": 6,
+      "blockCount": 1595,
+      "sizeBytes": 2695507,
+      "downloadUrl": "https://dafisnadhifsaputra.github.io/nadex-books/cosmos/book.json",
+      "downloaded": false
+    },
+    {
+      "id": "how-not-to",
+      "title": "How not to be wrong. The power of mathematical thinking (2014, Penguin Group US) - libgen.li (1)",
+      "author": "Jordan Ellenberg",
+      "bookPath": "how-not-to/book.json",
+      "pageCount": 469,
+      "chapterCount": 25,
+      "blockCount": 3270,
+      "sizeBytes": 11844788,
+      "downloadUrl": "https://dafisnadhifsaputra.github.io/nadex-books/how-not-to/book.json",
+      "downloaded": false
+    },
+    {
+      "id": "emotional-intelligence",
+      "title": "Emotional Intelligence",
+      "author": "Daniel Goleman",
+      "bookPath": "emotional-intelligence/book.json",
+      "pageCount": 347,
+      "chapterCount": 24,
+      "blockCount": 2333,
+      "sizeBytes": 3503529,
+      "downloadUrl": "https://dafisnadhifsaputra.github.io/nadex-books/emotional-intelligence/book.json",
+      "downloaded": false
+    },
+    {
+      "id": "guns-germs-and",
+      "title": "Guns, Germs And Steel_ a short history of everybody for the last 13, 000 years",
+      "author": "",
+      "bookPath": "guns-germs-and/book.json",
+      "pageCount": 338,
+      "chapterCount": 24,
+      "blockCount": 2067,
+      "sizeBytes": 7901816,
+      "downloadUrl": "https://dafisnadhifsaputra.github.io/nadex-books/guns-germs-and/book.json",
+      "downloaded": false
+    },
+    {
+      "id": "thinking-fast-and",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "bookPath": "thinking-fast-and/book.json",
+      "pageCount": 401,
+      "chapterCount": 45,
+      "blockCount": 2929,
+      "sizeBytes": 5030507,
+      "downloadUrl": "https://dafisnadhifsaputra.github.io/nadex-books/thinking-fast-and/book.json",
+      "downloaded": false
+    },
+    {
+      "id": "lost-in-math",
+      "title": "Lost in Math_ How Beauty Leads Physics Astray",
+      "author": "Sabine Hossenfelder",
+      "bookPath": "lost-in-math/book.json",
+      "pageCount": 229,
+      "chapterCount": 12,
+      "blockCount": 2445,
+      "sizeBytes": 4459203,
+      "downloadUrl": "https://dafisnadhifsaputra.github.io/nadex-books/lost-in-math/book.json",
+      "downloaded": false
+    },
+    {
+      "id": "the-god-delusion",
+      "title": "The God Delusion",
+      "author": "",
+      "bookPath": "the-god-delusion/book.json",
+      "pageCount": 269,
+      "chapterCount": 10,
+      "blockCount": 2166,
+      "sizeBytes": 3085958,
+      "downloadUrl": "https://dafisnadhifsaputra.github.io/nadex-books/the-god-delusion/book.json",
+      "downloaded": false
+    },
+    {
+      "id": "sapiens-brief-history",
+      "title": "Sapiens A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "bookPath": "sapiens-brief-history/book.json",
+      "pageCount": 306,
+      "chapterCount": 27,
+      "blockCount": 1891,
+      "sizeBytes": 9918835,
+      "downloadUrl": "https://dafisnadhifsaputra.github.io/nadex-books/sapiens-brief-history/book.json",
+      "downloaded": false
+    },
+    {
+      "id": "the-selfish-gene",
+      "title": "The Selfish Gene_ 40th Anniversary Edition",
+      "author": "Richard Dawkins",
+      "bookPath": "the-selfish-gene/book.json",
+      "pageCount": 333,
+      "chapterCount": 4,
+      "blockCount": 2433,
+      "sizeBytes": 3647341,
+      "downloadUrl": "https://dafisnadhifsaputra.github.io/nadex-books/the-selfish-gene/book.json",
+      "downloaded": false
+    }
+  ]
+}
